@@ -18,9 +18,5 @@ You will also need a soldering iron, hot glue / super glue, wire strippers, etc.
 
 
 
-This project is licensed under the Creative Commons - Attribution - Non-Commercial
-
-You are free to:
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material.
-Non-Commercial — You may not use the material for commercial purposes.
+All files available by 3PCS are licensed under Creative Commons CC BY-NC-SA
+3D models and design by roadsidebomb
