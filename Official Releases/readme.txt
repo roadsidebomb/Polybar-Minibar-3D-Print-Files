@@ -3,7 +3,7 @@ You will find print quantities for each category listed below.
 Join us on Discord: https://discord.gg/rRTbyKxyRu
 
 All files available by 3PCS are licensed under Creative Commons CC BY-NC-SA
-3D models and design by roadsidebomb.
+3D models and design by roadsidebomb
 
 SHARED PARTS:
 	ASSEMBLY COMPONENTS
