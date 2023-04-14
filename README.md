@@ -1,3 +1,7 @@
+<br/>
+<div align="center">
+<img src="https://i.imgur.com/I7idVAG.png" width="30%" alt="Polybar & Minibar">
+</div>
 
 # Polybar
 
