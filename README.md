@@ -10,7 +10,7 @@
 
 <p>The Polybar project, by 3PCS (threepieces), is a modular 3D printable controller for music games like YARG, Clone Hero, or similar.<br /> 
 You can find the latest version under . The download includes all STL, F3D and PCB files for use under the license listed below.</p>
-[releases]([url](https://github.com/roadsidebomb/Polybar-Minibar-3D-Print-Files/releases))
+[releases](https://github.com/roadsidebomb/Polybar-Minibar-3D-Print-Files/releases)
 
 ## 🎧 Discord 
 
