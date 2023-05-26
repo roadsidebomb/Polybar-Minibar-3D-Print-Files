@@ -2,6 +2,9 @@
 You will find print quantities for each category listed below.
 Join us on Discord: https://discord.gg/rRTbyKxyRu
 
+The Polybar & Minibar v4.4 build guide can be found here:
+https://jwagriff.work/posts/polybar-build-guide/
+
 All files available by 3PCS are licensed under Creative Commons CC BY-NC-SA
 3D models and design by roadsidebomb
 
