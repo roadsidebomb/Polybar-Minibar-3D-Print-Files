@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Polybar")(type "Legacy")(uri "/home/virginia2244/Projects/Polybar-Minibar-3D-Print-Files/Footprints.pretty/RKJXV1224005.lib")(options "")(descr ""))
+  (lib (name "Polybar")(type "KiCad")(uri "/home/virginia2244/Projects/Polybar-Minibar-3D-Print-Files/Footprints.pretty/RKJXV1224005.kicad_sym")(options "")(descr ""))
 )
