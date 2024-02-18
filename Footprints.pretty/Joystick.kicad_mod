@@ -1,4 +1,4 @@
-(footprint "RKJXV1224005" (version 20221018) (generator pcbnew)
+(footprint "Joystick" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "RKJXV1224005-1")
   (tags "Undefined or Miscellaneous")
@@ -7,7 +7,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 6648ba83-28c1-46ac-b2eb-4e352f362efa)
   )
-  (fp_text value "RKJXV1224005" (at 0 -5.5) (layer "F.SilkS") hide
+  (fp_text value "Joystick" (at 0 -5.5) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 70e30b4e-ec8c-4bdd-9024-8663c8985084)
   )

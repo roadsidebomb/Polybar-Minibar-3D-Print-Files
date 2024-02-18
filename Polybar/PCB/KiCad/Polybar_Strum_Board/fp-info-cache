@@ -1,4 +1,4 @@
-22723434637516219
+22694405323244626
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62775,6 +62775,20 @@ DIP794W45P254L1969H508Q14
 0
 14
 14
+Minibar
+KB2040
+
+
+0
+24
+24
+Minibar
+Kailh_Hotswap_MX
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -81662,28 +81676,7 @@ TO-264-5 Vertical RM 3.81mm
 5
 5
 Polybar
-CUI_SJ-3523-audio-jack
-3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
-3.5mm audio cui horizontal jack stereo
-0
-3
-3
-Polybar
-DSUB-15-L77HDE15SD1CH4F
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-17
-16
-Polybar
-JOYSTICK_W_BUTTON
-
-JOYSTICK PS2 BUTTON
-0
-14
-9
-Polybar
-KB2040-ProMicroPins
+KB2040
 
 
 0
@@ -81696,118 +81689,6 @@ MX,cherry,gateron,kailh,pg1511,socket
 0
 2
 2
-Polybar
-Kailh_Hotswap_PG1350
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-6
-2
-Polybar
-LED_RGB_5050_DOTSTAR
-http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
-RGB LED 5050-6
-0
-6
-6
-Polybar
-MBR120_SOD-123
-SOD-123
-SOD-123
-0
-2
-2
-Polybar
-RKJXV1224005
-RKJXV1224005-1
-Undefined or Miscellaneous
-0
-14
-9
-Polybar
-RPi_Pico_SMD_TH
-Through hole straight pin header, 2x20, 2.54mm pitch, double rows
-Through hole pin header THT 2x20 2.54mm double row
-0
-86
-43
-Polybar
-Solder_Jumper
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
-solder jumper open
-0
-2
-2
-Polybar
-USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified
-Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
-USB USB_B USB_micro USB_OTG
-0
-17
-6
-Polybar
-XDCR_COM-09032
-
-
-0
-14
-14
-Polybar
-rp2040-zero-smd
-
-
-0
-23
-23
-Polybar
-rp2040-zero-smd-pads
-
-
-0
-33
-33
-Polybar
-rp2040-zero-smd-pads-cutout
-
-
-0
-33
-33
-Polybar
-rp2040-zero-tht
-
-
-0
-23
-23
-Polybar
-rp2040-zero-tht-pads
-
-
-0
-33
-33
-Polybar
-rp2040-zero-tht-pads-cutout
-
-
-0
-33
-33
-Polybar
-test_point
-
-
-0
-1
-1
-Polybar
-test_point_2
-
-
-0
-1
-1
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
