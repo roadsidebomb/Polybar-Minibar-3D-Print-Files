@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Minibar")(type "KiCad")(uri "/home/virginia2244/Projects/Polybar-Minibar-3D-Print-Files/Footprints.pretty")(options "")(descr ""))
+)
